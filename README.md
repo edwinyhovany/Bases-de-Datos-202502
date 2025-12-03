@@ -1,6 +1,6 @@
 # Proyecto de Gestión Académica (Examen Final SQL & Pandas)
 
-Este proyecto contiene el desarrollo del examen final práctico para la asignatura de Bases de Datos, enfocado en la manipulación y análisis de datos de un sistema académico universitario utilizando SQLite y la biblioteca Pandas.
+Este proyecto contiene el desarrollo del primer examen práctico para la asignatura de Bases de Datos, enfocado en la manipulación y análisis de datos de un sistema académico universitario utilizando SQLite y la biblioteca Pandas.
 
 ## Objetivo del Proyecto
 
@@ -42,3 +42,4 @@ Para iniciar el proyecto y ejecutar el examen completo, sigue estos pasos secuen
 5.  **Sección 1 (DML):** Ejecuta secuencialmente las celdas de la **Sección 1** para realizar las modificaciones de registros (`INSERT`, `UPDATE`, `DELETE`) en las tablas.
 6.  **Sección 2 (SELECT):** Ejecuta las celdas de la **Sección 2** para obtener los datos de análisis mediante consultas `SELECT` (Puntos 6 al 11).
 7.  **Sección 3 (Pandas):** Ejecuta las celdas de la **Sección 3** para cargar el `DataFrame` y generar los reportes analíticos y visualizaciones finales (Puntos 13, 14, 15).
+
